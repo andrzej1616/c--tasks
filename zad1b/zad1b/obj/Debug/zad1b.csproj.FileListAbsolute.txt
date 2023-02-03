@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.Form1.resources
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.Properties.Resources.resources
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\zad1b\zad1b\bin\Debug\zad1b.exe.config
+C:\Users\pc\source\repos\zad1b\zad1b\bin\Debug\zad1b.exe
+C:\Users\pc\source\repos\zad1b\zad1b\bin\Debug\zad1b.pdb
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.exe
+C:\Users\pc\source\repos\zad1b\zad1b\obj\Debug\zad1b.pdb
