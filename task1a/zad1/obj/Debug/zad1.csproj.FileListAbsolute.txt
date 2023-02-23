@@ -9,3 +9,14 @@ C:\Users\pc\source\repos\zad1\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
 C:\Users\pc\source\repos\zad1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
 C:\Users\pc\source\repos\zad1\zad1\obj\Debug\zad1.exe
 C:\Users\pc\source\repos\zad1\zad1\obj\Debug\zad1.pdb
+C:\c#tasks\c--tasks\task1a\zad1\bin\Debug\zad1.exe.config
+C:\c#tasks\c--tasks\task1a\zad1\bin\Debug\zad1.exe
+C:\c#tasks\c--tasks\task1a\zad1\bin\Debug\zad1.pdb
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.csproj.AssemblyReference.cache
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.csproj.SuggestedBindingRedirects.cache
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.Form1.resources
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.Properties.Resources.resources
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.csproj.GenerateResource.cache
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.exe
+C:\c#tasks\c--tasks\task1a\zad1\obj\Debug\zad1.pdb
